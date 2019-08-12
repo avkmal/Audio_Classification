@@ -33,7 +33,7 @@ I'll be using fastai brilliant library for modelling and librosa to preprocess t
         - freeze the layers and train the final layer.
         - best learning rate: 0.0001
         - number of epochs: 8
-        - validation accuracy: 0.0.986
+        - validation accuracy: 0.986
 
 - Accuracy on test set: **0.9463**
 
