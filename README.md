@@ -45,7 +45,7 @@ I'll be using fastai brilliant library for modelling and librosa to preprocess t
 
 
 ## TO DO
-- use virtual environments.
+- use virtual environment.
 - generate requirements.txt
 
 
